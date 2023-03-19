@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm Amitoz, a passionate DevOps/Cloud Engineer 👨‍💻  from California 🚀</div>  
   
+  
 
 - 🔭 I’m currently working on mastering new skills.  
   
@@ -12,10 +13,10 @@
 - 🌱 I’m currently learning scripting.  
   
 
+- 👯 I’m looking to collaborate on DevOps/AWS projects.
+
+
 - 📫 How to reach me **amitoz_91@hotmail.com**
-
-
-- 👯 I’m looking to collaborate on DevOps/AWS projects  
   
 
 - ⚡ Fun fact Automate everything, accelerate delivery!  
@@ -25,12 +26,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
 
 
 </td><td valign="top" width="33%">
