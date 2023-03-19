@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
-  
+
+
+      You have finally discovered my Github profile.
+      Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
 ### <div align="center">I'm Amitoz, a passionate DevOps/Cloud Engineer 👨‍💻  from California 🚀</div>  
   
@@ -18,7 +21,7 @@
 - 👯 I’m looking to collaborate on DevOps/AWS projects.
 
 
-- 📫 You can reach me on **amitoz_91@hotmail.com**
+- 📫 You can reach me on <a href="mailto:amitoz_91@hotmail.com"><b>email</b></a>
   
 
 - ⚡ Fun fact - Automate everything, accelerate delivery!  
