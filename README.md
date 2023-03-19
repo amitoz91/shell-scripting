@@ -1,11 +1,13 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
 ### <div align="center">I'm Amitoz, a passionate DevOps/Cloud Engineer 👨‍💻  from California 🚀</div>  
   
   
+
+
 
 - 🔭 I’m currently working on mastering new skills.  
   
@@ -16,16 +18,16 @@
 - 👯 I’m looking to collaborate on DevOps/AWS projects.
 
 
-- 📫 How to reach me **amitoz_91@hotmail.com**
+- 📫 You can reach me on **amitoz_91@hotmail.com**
   
 
-- ⚡ Fun fact Automate everything, accelerate delivery!  
+- ⚡ Fun fact - Automate everything, accelerate delivery!  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Skill Set  
 
 
 </td><td valign="top" width="33%">
@@ -74,13 +76,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amitoz91&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -91,15 +86,3 @@
   
 
 <br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
